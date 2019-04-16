@@ -1,0 +1,8 @@
+[package]
+name = "actix-hello"
+version = "0.1.0"
+authors = ["bishtpawan <pawan.bisht@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7"
