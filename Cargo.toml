@@ -1,0 +1,13 @@
+[package]
+name = "actix-web"
+version = "0.1.0"
+authors = ["bishtpawan"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.0-beta.3"
+actix-session = "0.1.0-beta.2"
+
+futures = "0.1"
+time = "0.1"
+env_logger = "0.6"
